@@ -20,8 +20,7 @@ data|
 ```
 
 # Train
-#### on MS COCO no5k-2014\
-#### epochs : 130
+we trained this model on MS COCO no5k-2014 after 130 epochs.
 <div align=center>
 <img src="https://note.youdao.com/yws/public/resource/21124787bfc213e0a159d87a5241ad4c/xmlnote/DD7AA2C14F3640CE9DCF84CB9392C6E3/42533" width=416 height=416 / >
 </div>
