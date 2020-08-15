@@ -12,6 +12,13 @@ Model type | time |input size |AP | AP50 | AP75 | APS | APM | APL
 Model type | input size | AP | AP50 | AP75 | APS | APM | APL
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 0|608x608|0|0|0|0|0|0
+# About filepath of dataset
+``` python
+data|
+     |images|
+             |coco
+```
+
 # Train
 #### on MS COCO no5k-2014\
 #### epochs : 130
