@@ -5,12 +5,12 @@ We are training...
 baidu(url Extraction code:)
 # Performance
 #### on MS COCO no5k-2014 dataset
-(input size: 608x608,GeForce RTX 2080 Ti)
-Model type | AP | AP50 | AP75 | APS | APM | APL
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-0|0|0|0|0|0|0
+GeForce RTX 2080 Ti
+Model type | input size |AP | AP50 | AP75 | APS | APM | APL
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+0|608x608|0|0|0|0|0|0
 #### on MS COCO test-dev2017 dataset
-(input size: 608x608,GeForce RTX 2080 Ti)
-Model type | AP | AP50 | AP75 | APS | APM | APL
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-0|0|0|0|0|0|0
+GeForce RTX 2080 Ti
+Model type | input size | AP | AP50 | AP75 | APS | APM | APL
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+0|608x608|0|0|0|0|0|0
